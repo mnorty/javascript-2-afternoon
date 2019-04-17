@@ -58,7 +58,8 @@ favoriteThings.brand = "Bosch"
   and change the value of the book key in your favoriteThings object to be 'Harry Potter'.
 */
 
-//Code here
+favoriteThings.food = "Chicken Nuggets"
+favoriteThings.book = "Harry Potter"
 
 
 
@@ -72,7 +73,11 @@ favoriteThings.brand = "Bosch"
   Using dot notation, add another key (or property) to your backPack object that is named color, with the value being the color of your backpack. 
 */
 
-//Code here
+let backPack = {}
+let item = "firstPocket"
+backPack["item"]
+backPack.firstPocket = "chapstick"
+backPack.color = "Schwarz"
 
 
 
