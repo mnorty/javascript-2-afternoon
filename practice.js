@@ -85,7 +85,7 @@ backPack.color = "Schwarz"
   After you do the above, alert your entire backPack object.
 */
 
-//Code here
+backPack
 
 
 
@@ -95,7 +95,7 @@ Alerting to see the data in your Object doesn't work so well.
 Instead, console.log your whole backPack object and then check out the console. 
 */
 
-//Code here
+console.log(backPack)
 
 
 
@@ -118,7 +118,8 @@ var user2 = {
   Make that change without modifying the original object code above.
 */
 
-//Code Here
+user2.name = 'Tyler S. McGinnis'
+user2.email = 'tyler.mcginnis@devmounta.in' // Updated this to match the information Jasmine wanted. 
 
 
 
