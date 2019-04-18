@@ -142,7 +142,7 @@ user2.email = 'tyler.mcginnis@devmounta.in' // Updated this to match the informa
   Create an empty object called methodCollection.
 */
 
-//Code Here
+methodCollection = {}
 
 
 
@@ -151,7 +151,7 @@ user2.email = 'tyler.mcginnis@devmounta.in' // Updated this to match the informa
   One called 'alertHello' which alerts 'hello' and another method called 'logHello' which logs 'hello' to the console. 
 */
 
-//Code Here
+
 
 
 
